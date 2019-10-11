@@ -1,0 +1,54 @@
+
+
+
+.search-box {
+    width: 400px;
+    margin: 2px;
+}
+
+#circle-btn {
+    border: none;
+    border-radius: 50%;
+    float: right;
+}
+
+.card-footer{
+    border-radius: 2rem;
+  }
+
+.badge {
+    float: right;
+}
+
+.card-price{
+    float: left;
+}
+
+.list-group-item {
+   
+    cursor: pointer;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #c1d62e;
+    border-color: #c1d62e;
+}
+
+
+.sticky-top {
+    top: 80px;
+}
+
+/* .green {
+    color: green;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+} */

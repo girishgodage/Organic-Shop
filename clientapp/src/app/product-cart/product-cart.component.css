@@ -1,0 +1,19 @@
+
+.thumbnail {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;
+}
+
+#btn_dec
+{
+    background-color: black;    
+}
+#btn_inc
+{
+    background-color: white;    
+}
+.btn-success {
+    margin-bottom: 50px;
+}

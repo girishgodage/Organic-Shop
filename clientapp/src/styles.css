@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    padding-top: 60px;
+  }
+
+  
+  .btn {
+    border-radius: 10rem;
+  }
+  
+span
+{
+  color:#c1d62e;
+}
+  .form-rounded {
+    border-radius: 1.5rem;
+    }
+  .has-icon .form-control {
+      padding-left: 2.375rem;  
+  }
+  .has-icon .form-control-feedback {
+      position: absolute;
+      z-index: 2;
+      display: block;
+      width: 2.375rem;
+      height: 2.375rem;
+      line-height: 2.375rem;
+      text-align: center;
+      pointer-events: none;
+      color: #aaa;
+  }  
+
+  #detail-btn {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: #fff;
+    margin-left: 24px;
+}
+
+.card {
+  border-radius: 2rem;
+  margin-bottom: 10px;
+}
+
+.card img {
+  border-radius: 2rem;
+  height:180px !important;
+}
+
+
+#add-cart-btn {
+  color: #fff;
+  background-color:orangered;
+  border-color: white;
+  margin-left: 24px;
+}
+
+  .alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .55rem;
+}

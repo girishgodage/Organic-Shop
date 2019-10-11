@@ -1,0 +1,11 @@
+
+
+#remove-btn {
+    background-color: black;
+    color:white;
+    float: right;
+}
+
+.card-footer{
+    border-radius: 2rem;
+  }
